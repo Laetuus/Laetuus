@@ -6,7 +6,7 @@ Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvime
 ## Entre em contato comigo por:
 
 - 📫 E-mail: <a href="mailto:dwalexdw@gmail.com"> dwalexdw@gmail.com </a>
-- 💭 <a href="https://www.linkedin.com/in/alex-marcos">Meu linkedInn</a>
+- 💭 <a href="https://www.linkedin.com/in/alex-marcos">Meu linkedIn</a>
 
 
 </br>
