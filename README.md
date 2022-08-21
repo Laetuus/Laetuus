@@ -2,7 +2,7 @@
 Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvimento de sistemas, com intuito de me tornar FullStack.
 
 - 🌱 Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para TypeScript.
--
+
 ## Entre em contato comigo por:
 
 - 📫 E-mail: <a href="mailto:dwalexdw@gmail.com"> dwalexdw@gmail.com </a>
