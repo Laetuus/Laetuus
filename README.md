@@ -21,7 +21,7 @@ Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvime
 
 
 
-### Technologies that I've been working with
+### Tecnologias com quais já trabalhei:
  <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br> 
        <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
