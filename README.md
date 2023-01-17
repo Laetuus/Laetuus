@@ -12,12 +12,12 @@ Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvime
 </br>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laetuus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laetuus&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Laetuus&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laetuus&layout=compact&langs_count=7&theme=radical%22/%3E
 </div>
 <div align='center'>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Laetuus&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
-</div>    
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=wesleyoliveirabsb&theme=radical&date_format=M%20j%5B%2C%20Y%5D%22%3E
+</div>
 
 
 
