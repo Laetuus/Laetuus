@@ -1,7 +1,8 @@
 ## 👋 Olá Mundo! Eu sou Alex Marcos Batista Lins
-Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvimento de sistemas, com intuito de me tornar FullStack.
+Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvimento de sistemas, com intuito de me tornar FullStack. Atualmente trabalho como dev na ABS, onde atuo com criação de dashboard e books, ajuste de material de marketing e desenvolvimento de query's.
+Caso tenha interesse em meus projetos peço que olhe nos repositorios clicando <a href="https://github.com/Laetuus?tab=repositories">AQUI</> ou na aba de repositorios, todos os resumos do projetos estão bem detalhados tanto o desenvolvimento quanto a conclusão do mesmo.
 
-- 🌱 Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para TypeScript.
+- 🌱 Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para Wordpress
 
 ## Entre em contato comigo por:
 
@@ -12,13 +13,12 @@ Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvime
 </br>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laetuus&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laetuus&layout=compact&langs_count=7&theme=radical%22/%3E
+  <img src="https://github-readme-stats.vercel.app/api?username=laetuus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=laetuus&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div align='center'>
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=wesleyoliveirabsb&theme=radical&date_format=M%20j%5B%2C%20Y%5D%22%3E
-</div>
-
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=wesleyoliveirabsb&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+</div>    
 
 
 ### Tecnologias com quais já trabalhei:
