@@ -33,6 +33,5 @@ Caso tenha interesse em meus projetos peço que olhe nos repositorios clicando <
        <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
        <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
        <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-       
     </div>
 </div>
