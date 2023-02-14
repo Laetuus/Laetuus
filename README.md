@@ -1,6 +1,6 @@
 ## 👋 Olá Mundo! Eu sou Alex Marcos Batista Lins
 Sou desenvolvedor Front-end e estudante de Tecnologia em Análise e Desenvolvimento de sistemas, com intuito de me tornar FullStack. Atualmente trabalho como dev na ABS, onde atuo com criação de dashboard e books, ajuste de material de marketing e desenvolvimento de query's.
-Caso tenha interesse em meus projetos peço que olhe nos repositorios clicando <a href="https://github.com/Laetuus?tab=repositories">AQUI</a> ou na aba de repositorios, todos os resumos do projetos estão bem detalhados tanto o desenvolvimento quanto a conclusão do mesmo.
+Caso tenha interesse em meus projetos peço que olhe nos repositorios clicando <a href="https://github.com/Laetuus?tab=repositories">AQUI</a> ou na aba de repositórios, todos os resumos do projetos estão bem detalhados tanto o desenvolvimento quanto a conclusão do mesmo.
 
 - 🌱 Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para Wordpress
 
